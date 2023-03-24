@@ -98,6 +98,10 @@ h5.card-title {
       .responsive-nav button {
         border: 0;
     }
+    .responsive-nav button:focus {
+        border: 0;
+        box-shadow: 0;
+    }
     .form-fields{
        flex-direction: column;
     }

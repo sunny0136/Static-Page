@@ -100,7 +100,7 @@ h5.card-title {
     }
     .responsive-nav button:focus {
         border: 0;
-        box-shadow: 0;
+        box-shadow: none;
     }
     .form-fields{
        flex-direction: column;

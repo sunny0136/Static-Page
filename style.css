@@ -33,6 +33,7 @@
 	border: 1px solid transparent;
 	box-shadow: 0  0 6px #e6d7d7;
 	margin-bottom: 20px;
+    min-height: 152px;
 }
 .card-content .card:hover {
 	border-color: #36068d;

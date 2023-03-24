@@ -23,7 +23,7 @@
 	border-radius: 10px;
 	box-shadow: 0 0 6px #e6d7d7;
 	padding: 20px;
-	margin: 30px;
+	margin: 30px auto;
 }
 .card-content a {
 	text-decoration: none;
